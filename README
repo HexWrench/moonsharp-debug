@@ -1,0 +1,5 @@
+This short example demonstrates how to create your own
+debug server for MoonSharp and debug scripts using VS Code.
+
+The full explanation can be found in my blog at:
+https://blog.jpahnen.com/2017/05/debugging-lua-scripts-in-vs-code-using.html
